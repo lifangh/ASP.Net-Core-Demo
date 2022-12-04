@@ -1,0 +1,15 @@
+D:\Program Files\Net\SwiftCode.BBS\SwiftCode.BBS.EntityFramework\bin\Debug\net5.0\SwiftCode.BBS.EntityFramework.deps.json
+D:\Program Files\Net\SwiftCode.BBS\SwiftCode.BBS.EntityFramework\bin\Debug\net5.0\SwiftCode.BBS.EntityFramework.runtimeconfig.json
+D:\Program Files\Net\SwiftCode.BBS\SwiftCode.BBS.EntityFramework\bin\Debug\net5.0\SwiftCode.BBS.EntityFramework.runtimeconfig.dev.json
+D:\Program Files\Net\SwiftCode.BBS\SwiftCode.BBS.EntityFramework\bin\Debug\net5.0\SwiftCode.BBS.EntityFramework.dll
+D:\Program Files\Net\SwiftCode.BBS\SwiftCode.BBS.EntityFramework\bin\Debug\net5.0\SwiftCode.BBS.EntityFramework.pdb
+D:\Program Files\Net\SwiftCode.BBS\SwiftCode.BBS.EntityFramework\obj\Debug\net5.0\SwiftCode.BBS.EntityFramework.csproj.AssemblyReference.cache
+D:\Program Files\Net\SwiftCode.BBS\SwiftCode.BBS.EntityFramework\obj\Debug\net5.0\SwiftCode.BBS.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\Net\SwiftCode.BBS\SwiftCode.BBS.EntityFramework\obj\Debug\net5.0\SwiftCode.BBS.EntityFramework.AssemblyInfoInputs.cache
+D:\Program Files\Net\SwiftCode.BBS\SwiftCode.BBS.EntityFramework\obj\Debug\net5.0\SwiftCode.BBS.EntityFramework.AssemblyInfo.cs
+D:\Program Files\Net\SwiftCode.BBS\SwiftCode.BBS.EntityFramework\obj\Debug\net5.0\SwiftCode.BBS.EntityFramework.csproj.CoreCompileInputs.cache
+D:\Program Files\Net\SwiftCode.BBS\SwiftCode.BBS.EntityFramework\obj\Debug\net5.0\SwiftCode.BBS.EntityFramework.dll
+D:\Program Files\Net\SwiftCode.BBS\SwiftCode.BBS.EntityFramework\obj\Debug\net5.0\refint\SwiftCode.BBS.EntityFramework.dll
+D:\Program Files\Net\SwiftCode.BBS\SwiftCode.BBS.EntityFramework\obj\Debug\net5.0\SwiftCode.BBS.EntityFramework.pdb
+D:\Program Files\Net\SwiftCode.BBS\SwiftCode.BBS.EntityFramework\obj\Debug\net5.0\SwiftCode.BBS.EntityFramework.genruntimeconfig.cache
+D:\Program Files\Net\SwiftCode.BBS\SwiftCode.BBS.EntityFramework\obj\Debug\net5.0\ref\SwiftCode.BBS.EntityFramework.dll

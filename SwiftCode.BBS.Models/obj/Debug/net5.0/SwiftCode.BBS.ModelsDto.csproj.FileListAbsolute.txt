@@ -1,0 +1,12 @@
+D:\Program Files\Net\SwiftCode.BBS\SwiftCode.BBS.Models\bin\Debug\net5.0\SwiftCode.BBS.ModelsDto.deps.json
+D:\Program Files\Net\SwiftCode.BBS\SwiftCode.BBS.Models\bin\Debug\net5.0\SwiftCode.BBS.ModelsDto.dll
+D:\Program Files\Net\SwiftCode.BBS\SwiftCode.BBS.Models\bin\Debug\net5.0\SwiftCode.BBS.ModelsDto.pdb
+D:\Program Files\Net\SwiftCode.BBS\SwiftCode.BBS.Models\obj\Debug\net5.0\SwiftCode.BBS.ModelsDto.csproj.AssemblyReference.cache
+D:\Program Files\Net\SwiftCode.BBS\SwiftCode.BBS.Models\obj\Debug\net5.0\SwiftCode.BBS.ModelsDto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\Net\SwiftCode.BBS\SwiftCode.BBS.Models\obj\Debug\net5.0\SwiftCode.BBS.ModelsDto.AssemblyInfoInputs.cache
+D:\Program Files\Net\SwiftCode.BBS\SwiftCode.BBS.Models\obj\Debug\net5.0\SwiftCode.BBS.ModelsDto.AssemblyInfo.cs
+D:\Program Files\Net\SwiftCode.BBS\SwiftCode.BBS.Models\obj\Debug\net5.0\SwiftCode.BBS.ModelsDto.csproj.CoreCompileInputs.cache
+D:\Program Files\Net\SwiftCode.BBS\SwiftCode.BBS.Models\obj\Debug\net5.0\SwiftCode.BBS.ModelsDto.dll
+D:\Program Files\Net\SwiftCode.BBS\SwiftCode.BBS.Models\obj\Debug\net5.0\refint\SwiftCode.BBS.ModelsDto.dll
+D:\Program Files\Net\SwiftCode.BBS\SwiftCode.BBS.Models\obj\Debug\net5.0\SwiftCode.BBS.ModelsDto.pdb
+D:\Program Files\Net\SwiftCode.BBS\SwiftCode.BBS.Models\obj\Debug\net5.0\ref\SwiftCode.BBS.ModelsDto.dll

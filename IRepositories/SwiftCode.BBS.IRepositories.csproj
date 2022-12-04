@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SwiftCode.BBS.EntityFramework\SwiftCode.BBS.EntityFramework.csproj" />
+    <ProjectReference Include="..\SwiftCode.BBS.Models\SwiftCode.BBS.ModelsDto.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <DocumentationFile>D:\Program Files\Net\学习git\SwiftCode.BBS.API\SwiftCode.BBS.API.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.17" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Filters" Version="7.0.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IService\SwiftCode.BBS.IService.csproj" />
+    <ProjectReference Include="..\SwiftCode.BBS.Common\SwiftCode.BBS.Common.csproj" />
+    <ProjectReference Include="..\SwiftCode.BBS.Extensions\SwiftCode.BBS.Extensions.csproj" />
+    <ProjectReference Include="..\SwiftCode.BBS.Repositories\SwiftCode.BBS.Repositories.csproj" />
+    <ProjectReference Include="..\SwiftCode.BBS.Service\SwiftCode.BBS.Service.csproj" />
+  </ItemGroup>
+
+</Project>
